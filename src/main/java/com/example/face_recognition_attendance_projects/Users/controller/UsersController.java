@@ -21,7 +21,6 @@ public class UsersController {
 	private UserService userService;
 
 	public UsersController(UserService userService) {
-	
 		this.userService = userService;
 	}
 	
